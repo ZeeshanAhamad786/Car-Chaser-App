@@ -1,0 +1,10 @@
+<svg id="Group_17102" data-name="Group 17102" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Group_12344" data-name="Group 12344" transform="translate(-150.432 -856.717)">
+    <g id="Iconly_Bulk_Arrow_-_Down_Circle" data-name="Iconly/Bulk/Arrow - Down Circle" transform="translate(150.432 856.717)">
+      <g id="Arrow_-_Down_Circle" data-name="Arrow - Down Circle" transform="translate(0 0)">
+        <path id="Fill_1" data-name="Fill 1" d="M20,10A10,10,0,1,1,10,0,10.011,10.011,0,0,1,20,10" transform="translate(0 0)" fill="#76777a" opacity="0.4"/>
+      </g>
+    </g>
+  </g>
+  <path id="home-gear-fill" d="M9.5,9.691a.447.447,0,0,1-.447.447H2.789a.447.447,0,0,1-.447-.447V5.666H1l4.618-4.2a.447.447,0,0,1,.6,0l4.618,4.2H9.5Zm-5.1-2.769-.443.256.447.775L4.843,7.7a1.565,1.565,0,0,0,.628.363v.512h.895V8.059A1.565,1.565,0,0,0,6.995,7.7l.444.256.447-.775-.443-.256a1.576,1.576,0,0,0,0-.724l.443-.256-.447-.775-.444.256a1.565,1.565,0,0,0-.628-.363V4.548H5.471V5.06a1.565,1.565,0,0,0-.628.363L4.4,5.166l-.447.775.443.256a1.576,1.576,0,0,0,0,.725Zm1.524.308a.67.67,0,1,1,.671-.67A.671.671,0,0,1,5.919,7.23Z" transform="translate(4.024 4.255)" fill="#36373c"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg id="Component_10_1" data-name="Component 10 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_904" data-name="Rectangle 904" width="4.063" height="0.813" fill="#36373c"/>
+    </clipPath>
+  </defs>
+  <g id="Group_12345" data-name="Group 12345" transform="translate(-150.432 -856.717)">
+    <g id="Iconly_Bulk_Arrow_-_Down_Circle" data-name="Iconly/Bulk/Arrow - Down Circle" transform="translate(150.432 856.717)">
+      <g id="Arrow_-_Down_Circle" data-name="Arrow - Down Circle" transform="translate(0 0)">
+        <path id="Fill_1" data-name="Fill 1" d="M20,10A10,10,0,1,1,10,0,10.011,10.011,0,0,1,20,10" transform="translate(0 0)" fill="#76777a" opacity="0.4"/>
+      </g>
+    </g>
+  </g>
+  <g id="message-2-pending-svgrepo-com" transform="translate(6 5.545)" opacity="0.68">
+    <g id="Group_582" data-name="Group 582" transform="translate(2.04 3.263)" clip-path="url(#clip-path)">
+      <path id="Path_828" data-name="Path 828" d="M15.406,10.816a.406.406,0,0,0,.154-.028.431.431,0,0,0,.134-.089.407.407,0,0,0,.085-.13.443.443,0,0,0,.033-.158.406.406,0,0,0-.118-.284.369.369,0,0,0-.134-.089.406.406,0,0,0-.561.374.443.443,0,0,0,.033.158.4.4,0,0,0,.374.248Z" transform="translate(-15 -10.003)" fill="#36373c"/>
+      <path id="Path_829" data-name="Path 829" d="M11.406,10.816a.406.406,0,0,0,.154-.028.431.431,0,0,0,.134-.089.407.407,0,0,0,.085-.13.443.443,0,0,0,.033-.158.406.406,0,0,0-.118-.284.369.369,0,0,0-.134-.089.406.406,0,0,0-.561.374.443.443,0,0,0,.033.158.4.4,0,0,0,.374.248Z" transform="translate(-9.375 -10.003)" fill="#36373c"/>
+      <path id="Path_830" data-name="Path 830" d="M7.406,10.816a.406.406,0,0,0,.154-.028.431.431,0,0,0,.134-.089.407.407,0,0,0,.085-.13.443.443,0,0,0,.033-.158.406.406,0,0,0-.118-.284.369.369,0,0,0-.134-.089A.406.406,0,0,0,7,10.409a.443.443,0,0,0,.033.158.4.4,0,0,0,.374.248Z" transform="translate(-3.749 -10.003)" fill="#36373c"/>
+    </g>
+    <path id="Path_831" data-name="Path 831" d="M8.935,7.895V9.256A.853.853,0,0,1,7.5,9.877l-1.061-1H6.083C3.84,8.878,2.02,7.334,2.02,5.424S3.84,1.97,6.083,1.97s4.063,1.548,4.063,3.454A3.222,3.222,0,0,1,8.927,7.886Z" transform="translate(-2.02 -1.97)" fill="none" stroke="#36373c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>
